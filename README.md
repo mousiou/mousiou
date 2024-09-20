@@ -1,9 +1,7 @@
-<div style="text-align:center;">
-<h1> <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30"> Hi there! I'm Moustapha
-<p style="font-size:20px;">Full Stack Developer.<br>I'm passionate about building robust, scalable applications that make a difference. 
-<br/>🌍 Based in Morocco, Oujda, living in the GMT+1 time zone.</p>
-</h1>
-</div>
+# <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30"> Hi there! I'm Moustapha
+Full Stack Developer.<br>
+I'm passionate about building robust, scalable applications that make a difference.<br>
+🌍 Based in Morocco, Oujda, living in the GMT+1 time zone.
 
 ## 💻 My tech stack includes:
 
@@ -91,8 +89,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mousiou&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mousiou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mousiou&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mousiou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ## 🏆 When I'm not coding
