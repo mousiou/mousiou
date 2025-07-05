@@ -24,7 +24,7 @@ I'm passionate about building robust, scalable applications that make a differen
   <img width="12" />
   <!-- <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
   <img width="12" /> -->
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="20" alt="c logo"  />
   <img width="12" />
   <!-- <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
@@ -46,7 +46,7 @@ I'm passionate about building robust, scalable applications that make a differen
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="40" alt="moodle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="20" alt="moodle logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
