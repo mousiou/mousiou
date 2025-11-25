@@ -97,13 +97,3 @@ I'm passionate about building robust, scalable applications that make a differen
 <!-- <div align="center">
   <img src="https://profile-counter.glitch.me/mousiou/count.svg?"  />
 </div> -->
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mousiou/mousiou/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mousiou/mousiou/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mousiou/mousiou/output/pacman-contribution-graph.svg">
-</picture>
-
-###
