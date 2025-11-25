@@ -80,12 +80,12 @@ I'm passionate about building robust, scalable applications that make a differen
 -   🛠️ Working on: side Projects
 -   👯 Looking to collaborate on: Open-source projects and innovative web applications
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
-<div align="center">
+ <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mousiou&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mousiou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2&cache_seconds=1" height="200" alt="languages graph"  />
-</div>
+</div> -->
 
 ## 🏆 When I'm not coding
 
@@ -94,6 +94,16 @@ I'm passionate about building robust, scalable applications that make a differen
 -   💪 Breaking some bones and staying active
 -   🌿 Enjoying nature
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/mousiou/count.svg?"  />
-</div>
+</div> -->
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
