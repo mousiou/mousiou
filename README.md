@@ -97,3 +97,6 @@ I'm passionate about building robust, scalable applications that make a differen
 <!-- <div align="center">
   <img src="https://profile-counter.glitch.me/mousiou/count.svg?"  />
 </div> -->
+## 🏆 Soft Skills
+ - Collaborative
+ - Problem Solver
